@@ -1,5 +1,5 @@
 streamlit
 ultralytics
-opencv-python
+opencv-python-headless
 numpy
 pillow
