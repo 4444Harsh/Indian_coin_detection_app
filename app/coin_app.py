@@ -4,7 +4,7 @@ import numpy as np
 from collections import Counter
 from PIL import Image
 from ultralytics import YOLO  
-model = YOLO("best (1).pt") 
+model = YOLO("best1.pt") 
 
 def predict(image_upload):
     image = np.array(image_upload)
